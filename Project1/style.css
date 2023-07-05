@@ -1,0 +1,53 @@
+.container{
+    border: 5px solid purple;
+    width: 800px;
+    height: ;
+    background-color: #b6e0ff4d;
+}
+img{
+    height: 200px;
+    width: 180px;
+    border-radius: 45%;
+    margin-left: 80px;
+    margin-top: 30px;
+    margin-right: 40px;
+    margin-bottom: 50px;
+}
+.name{
+    font-family: sans-serif;
+    font-size: xx-large;
+    font-weight: 500;
+    margin-top: 100px;
+}
+p{
+    margin: 0px;
+}
+.p_1{
+    margin: 0px;
+    margin-left: 200px;
+    font-family: sans-serif;
+}
+.intro{
+    font-family: sans-serif;
+    font-size: xx-large;
+    font-weight: 600;
+    margin-left: 80px;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
+.para{
+    margin-left: 80px;
+    text-align: justify;
+    margin-right: 50px;
+}
+.bullet{
+    margin-left: 80px;
+
+}
+.li{
+    font-size: small;
+}
+.link{
+    margin-left: 300px;
+
+}
